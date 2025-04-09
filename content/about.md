@@ -1,3 +1,3 @@
-# About Content Version 3
+# This is under construction, just a personal site.
 
 [Back home](/)
